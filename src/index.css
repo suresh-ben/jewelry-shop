@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FEFEFE;
+}
+
+.text-high:hover {
+    color: #D2042D;
+}
+
+.cato-text {
+    color: white; /* Inner text color */
+    -webkit-text-stroke: .75px black; /* Border size and color */
+}
