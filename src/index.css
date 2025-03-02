@@ -16,3 +16,7 @@ body {
     color: white; /* Inner text color */
     -webkit-text-stroke: .75px black; /* Border size and color */
 }
+
+.no-sidebar::-webkit-scrollbar {
+    display: none; /* Hide the scroll bar in WebKit browsers */
+}
